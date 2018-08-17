@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+bigimg: /img/science_publications.jpg
 ---
 
 [A Common Type 2 Diabetes Risk Variant Potentiates Activity of an Evolutionarily Conserved Islet Stretch Enhancer and Increases C2CD4A and C2CD4B Expression](https://www.ncbi.nlm.nih.gov/pubmed/29625024)
