@@ -24,7 +24,8 @@ description: Scientist / Bioinformatician / Software Package Developer
 # List of links in the navigation bar
 navbar-links:
   Home: "https://nlawlor.github.io"
-  Projects: "myprojects"
+  Publications: "myprojects"
+  Tools: "mytools"
   Gallery: "mygallery"
   Resume: "myresume"
   About Me / Contact: "aboutme"
