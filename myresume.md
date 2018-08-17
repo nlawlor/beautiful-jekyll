@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 ---
 
 ## My most updated resume (of August 2018):
