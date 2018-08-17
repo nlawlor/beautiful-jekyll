@@ -2,6 +2,7 @@
 layout: page
 title: Tools
 subtitle: Some software tools I’ve developed
+bigimg: /img/software_development.jpg
 ---
 
 ### _BiFET_: Sequencing Bias-free Transcription Factor Footprint Enrichment Test
