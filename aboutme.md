@@ -9,6 +9,6 @@ title: About me
 
 * I enjoy mining and integrating big datasets (especially next-generation sequencing data, e.g., RNA-seq, ATAC-seq, ChIP-seq, Hi-C, ChIA-PET) to study a wide range of topics including type 2 diabetes, aging, and immune system development.
 
-* Visit the [projects]() page to see some of my recent work/publications. If you'd rather see some highlights of my work, please visit the [gallery]() page.
+* Visit the [publications](http://nlawlor.github.io/myprojects/) page to see some of my recent work/publications and the [tools](https://nlawlor.github.io/mytools) page to see software I've developed. If you'd rather see some highlights of my work, please see some of the posts on my [home](https://nlawlor.github.io) page.
 
-* If you'd like to know more about me, please check out my [resume/CV](), or feel free to [email me](mailto:nathan.lawlor03@gmail.com) with further questions!
+* If you'd like to know more about me, please check out my [resume](https://nlawlor.github.io/myresume), or feel free to [email me](mailto:nathan.lawlor03@gmail.com) with further questions!
