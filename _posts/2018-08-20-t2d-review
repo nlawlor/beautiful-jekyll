@@ -1,0 +1,38 @@
+---
+layout: post
+title: Islet dysfunction and its connection to Type 2 diabetes (T2D) 
+subtitle: A review of the cellular mechanisms contributing to T2D 
+bigimg: /img/type-2-diabetes-injection.jpg
+tags: [Islets, Type 2 diabetes,]
+---
+
+## Type 2 diabetes: A complex metabolic disorder
+
+Type 2 diabetes (T2D) is a multi-tissue metabolic disorder that results when pancreatic islets
+fail to compensate for insulin resistance in peripheral tissues. Recent genomics research examining 
+the chromatin architecture and gene expression programs of human islets have implicated several different
+genetic, environmental, and cellular mechanisms that may be contributing to islet failure and ultimately T2D pathogenesis.
+
+## An overview of potential cellular mechanisms contributing to T2D
+
+In recent years, several studies have used single cell RNA-seq to profile and define the gene expression programs of the different
+cell types that comprise islets (check out my other post here)[https://nlawlor.github.io/2018-08-17-scrnaseq/].
+In addition, by comparing gene expression profiles between these cell types in individuals with and without T2D, these studies
+have highlighted specific alterations in islet cell type transcriptomes may underlie 
+T2D pathogenesis (see **Figure 3A** below). 
+
+However, there's more! Reserachers have also suggested that changes in actual cell proportions (**Figure 3B**),
+identity, and plasticity (Figure 3C, 3D) may be contributing to T2D. In patients with T2D, it is common to observe
+a decline in the total beta cell mass. Overall, this decrease in beta cell number means the patient with T2D is unable
+to produce insulin to counteract their rising blood glucose levels.
+However, what causes this reduction in beta cell number is still somewhat unclear.
+Researchers are now suggesting that the decreases in diabetic beta cell mass
+are caused by reversion to endocrine progenitor (hormone-negative) cells (**Figure 3C**)
+or different islet cell types (**Figure 3D**). 
+
+![](/img/Lawlor_T2D_Review_Figure_3.png)
+
+If you're interested in learning more about the complex etiologies of T2D please check out this paper:
+
+[*Trends in Genetics, 2017.* Genomics of Islet (Dys)function and Type 2 Diabetes](https://www.ncbi.nlm.nih.gov/pubmed/28245910)
+
