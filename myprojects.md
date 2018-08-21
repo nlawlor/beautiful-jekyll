@@ -4,9 +4,27 @@ title: Publications
 bigimg: /img/science_publications.jpg
 ---
 
+[*bioRxiv, 2018* (in review). BiFET: A Bias-free Transcription Factor Footprint Enrichment Test](https://www.biorxiv.org/content/early/2018/05/16/324277) 
+
+**Authors**:  A. Youn, E. J. Marquez, **N. Lawlor**, M. L. Stitzel, and D. Ucar
+
+=====================================================
+
+[*bioRxiv, 2018* (in review). Robust detection of hidden variation in single cell transcriptomes using Iteratively Adjusted-SVA (IA-SVA)](https://www.biorxiv.org/content/early/2018/04/24/151217) 
+
+**Authors**:  D. Lee, A. Cheng, **N. Lawlor**, M. Bolisetty, and D. Ucar
+
+=====================================================
+
+[*bioRxiv, 2017* (in review). Chromatin accessibility profiling uncovers genetic- and T2D disease state-associated changes in cis-regulatory element use in human islets](https://www.biorxiv.org/content/early/2017/09/22/192922)
+
+**Authors**:  S. Khetan, R. Kursawe, A. Jillette, A. Youn, **N. Lawlor**, E. J. Marquez, D. Ucar, and M. L. Stitzel
+
+=====================================================
+
 [*American Journal of Human Genetics, 2018.* A Common Type 2 Diabetes Risk Variant Potentiates Activity of an Evolutionarily Conserved Islet Stretch Enhancer and Increases C2CD4A and C2CD4B Expression](https://www.ncbi.nlm.nih.gov/pubmed/29625024)
 
-**Authors**: I. Kycia, B.N. Wolford, J.R. Huyghe, C. Fuchsberger, S. Vadlamudi, R. Kursawe, R.P. Welch, R.D. Albanus, A. Uyar, S. Khetan, **N. Lawlor**, M. Bolisetty, A. Mathur, J. Kuusisto, M. Laakso, D. Ucar, K.L. Mohlke, M. Boehnke, F.S. Collins, S.C.J. Parker, M.L. Stitzel.
+**Authors**: I. Kycia, B.N. Wolford, J.R. Huyghe, C. Fuchsberger, S. Vadlamudi, R. Kursawe, R.P. Welch, R.D. Albanus, A. Uyar, S. Khetan, **N. Lawlor**, M. Bolisetty, A. Mathur, J. Kuusisto, M. Laakso, D. Ucar, K.L. Mohlke, M. Boehnke, F.S. Collins, S.C.J. Parker, M.L. Stitzel
 
 =====================================================
 
