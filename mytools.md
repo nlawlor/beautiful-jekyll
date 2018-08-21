@@ -13,6 +13,8 @@ bigimg: /img/software_development.jpg
 
 An in-depth guide of how to use **BiFET** can be found [here](https://bioconductor.org/packages/release/bioc/vignettes/BiFET/inst/doc/BiFET.html)
 
+To read more about **BiFET** check out the manuscript [here](https://www.biorxiv.org/content/early/2018/05/16/324277)
+
 ================================================================================
 
 ### Robust detection of hidden variation in single cell transcriptomes using Iteratively Adjusted-SVA (_IA-SVA_)
@@ -23,6 +25,8 @@ Single cell RNA-sequencing (scRNA-seq) precisely characterizes gene expression l
 
 An in-depth guide of how to use **IA-SVA** can be found [here](https://www.bioconductor.org/packages/devel/bioc/vignettes/iasva/inst/doc/detecting_hidden_heterogeneity_iasvaV0.95.html)
 
+To read more about **IA-SVA** check out the manuscript [here](https://www.biorxiv.org/content/early/2018/04/24/151217)
+
 ================================================================================
 
 ### _multiClust_:  An R-package for Identifying Biologically Relevant Clusters in Cancer Transcriptome Profiles
@@ -32,3 +36,5 @@ Clustering is carried out to identify patterns in transcriptomics profiles to de
 **Availability**: **multiClust** is an R-package that may be downloaded from Bioconductor [here](https://www.bioconductor.org/packages/release/bioc/html/multiClust.html) , and the source code is available [here](https://github.com/nlawlor/multiClust)
 
 An in-depth guide of how to use **multiClust** can be found [here](https://www.bioconductor.org/packages/release/bioc/vignettes/multiClust/inst/doc/multiClust.html)
+
+To read more about **multiClust** check out the publication [here](http://journals.sagepub.com/doi/abs/10.4137/CIN.S38000)
