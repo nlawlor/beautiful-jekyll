@@ -15,7 +15,7 @@ An in-depth guide of how to use **BiFET** can be found [here](https://bioconduct
 
 To read more about **BiFET** check out the manuscript [here](https://www.biorxiv.org/content/early/2018/05/16/324277)
 
-================================================================================
+***
 
 ### Robust detection of hidden variation in single cell transcriptomes using Iteratively Adjusted-SVA (_IA-SVA_)
 
@@ -27,7 +27,7 @@ An in-depth guide of how to use **IA-SVA** can be found [here](https://www.bioco
 
 To read more about **IA-SVA** check out the manuscript [here](https://www.biorxiv.org/content/early/2018/04/24/151217)
 
-================================================================================
+***
 
 ### _multiClust_:  An R-package for Identifying Biologically Relevant Clusters in Cancer Transcriptome Profiles
 
