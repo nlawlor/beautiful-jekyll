@@ -13,7 +13,7 @@ However, with shiny, I'm able to instead share my application (which contains my
 easy-to-use format. 
 
 As an example, using some of the R functions from the R package [**IA-SVA**](https://www.bioconductor.org/packages/devel/bioc/html/iasva.html),
-I developed a shiny application [hosted here on shinyapps.io](https://nlawlor.shinyapps.io/IASVA_Shiny_08_13_2018/) for interactive analysis
+I developed a shiny application [hosted on shinyapps.io](http://www.shinyapps.io) for interactive analysis
 of scRNA-seq.
 
 Check out the shiny app for **IA-SVA** [here](https://nlawlor.shinyapps.io/IASVA_Shiny_08_13_2018/).
