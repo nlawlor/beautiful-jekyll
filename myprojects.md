@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publications
-bigimg: /img/science_publications.jpg
+bigimg: 
+ - "/img/science_publications.jpg" : "Image from www.sciencepromotiongroup.com/"
 ---
 
 [*bioRxiv, 2018* (in review). BiFET: A Bias-free Transcription Factor Footprint Enrichment Test](https://www.biorxiv.org/content/early/2018/05/16/324277) 
