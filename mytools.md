@@ -2,7 +2,8 @@
 layout: page
 title: Tools
 subtitle: Some software tools I’ve developed
-bigimg: /img/software_development.jpg
+bigimg: 
+ - "/img/software_development.jpg" : "Image from https://edemkumodzi.com/"
 ---
 
 ### _BiFET_: Sequencing Bias-free Transcription Factor Footprint Enrichment Test
