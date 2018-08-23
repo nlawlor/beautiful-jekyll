@@ -5,6 +5,10 @@ bigimg:
  - "/img/science_publications.jpg" : "Image from www.sciencepromotiongroup.com/"
 ---
 
+[*bioRxiv, 2018* (in review). EndoC-βH1 multi-genomic profiling defines gene regulatory programs governing human pancreatic β cell identity and function](https://www.biorxiv.org/content/early/2018/08/23/399139)
+
+**Authors**: **Nathan Lawlor**, Eladio J. Marquez, Peter Orchard, Narisu Narisu, Muhammad Saad Shamim, Asa Thibodeau, Arushi Varshney, Romy Kursawe, Michael R. Erdos, Matt Kanke, Huiya Gu, Evgenia Pak, Amalia Dutra, Sheikh Russell, Xingwang Li, Emaly Piecuch, Oscar Luo, Peter S. Chines, Christian Fuchbserger, Praveen Sethupathy, Aviva Presser Aiden, Yijun Ruan, Erez Lieberman Aiden, Francis S. Collins, Duygu Ucar, Stephen C.J. Parker, and Michael L. Stitzel
+
 [*bioRxiv, 2018* (in review). BiFET: A Bias-free Transcription Factor Footprint Enrichment Test](https://www.biorxiv.org/content/early/2018/05/16/324277) 
 
 **Authors**:  A. Youn, E. J. Marquez, **N. Lawlor**, M. L. Stitzel, and D. Ucar
