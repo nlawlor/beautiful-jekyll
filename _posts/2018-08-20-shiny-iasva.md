@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Interactive exploration of single cell RNA-seq data using Shiny
-bigimg: /img/rshiny.stock.png
+bigimg: 
+ - "/img/rshiny.stock.png" : "Image from https://github.com/grabear/awesome-rshiny"
 tags: [Gene expression, Data analysis, Shiny]
 ---
 
