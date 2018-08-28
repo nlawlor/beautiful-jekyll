@@ -26,6 +26,8 @@ Single cell RNA-sequencing (scRNA-seq) precisely characterizes gene expression l
 
 An in-depth guide of how to use **IA-SVA** can be found [here](https://www.bioconductor.org/packages/devel/bioc/vignettes/iasva/inst/doc/detecting_hidden_heterogeneity_iasvaV0.95.html)
 
+**Shiny**: **IA-SVA** is also available as an interactive web application (Shiny) [here](https://nlawlor.shinyapps.io/IASVA_Shiny_08_13_2018/) and the source code for the app is available [here](https://github.com/nlawlor/iasva_shiny)
+
 To read more about **IA-SVA** check out the manuscript [here](https://www.biorxiv.org/content/early/2018/04/24/151217)
 
 ***
