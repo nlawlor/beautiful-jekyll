@@ -4,6 +4,8 @@ title: Just how similar are immortalized cell lines to primary cells?
 subtitle: A genomic comparison of primary and immortalized pancreatic cell lines
 bigimg: 
  - "/img/cell_culture_1_istock_000010604462large.jpg" : "Image from http://foldink.am"
+image: "/img/cell_culture_1_istock_000010604462large.jpg"
+show-avatar: false
 tags: [Cell lines, Islets, Type 2 diabetes]
 ---
 
