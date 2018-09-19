@@ -19,7 +19,7 @@ with your colleagues.
 
 As an example of how useful Shiny can be, I developed a shiny application for the R package [**IA-SVA**](https://www.bioconductor.org/packages/devel/bioc/html/iasva.html). This application is [hosted on shinyapps.io](http://www.shinyapps.io) and contains much of the R code and functions included in the IA-SVA package. 
 
-Check out the shiny app for **IA-SVA** [here](https://nlawlor.shinyapps.io/IASVA_Shiny_08_13_2018/).
+Check out the shiny app for **IA-SVA** [here](https://nlawlor.shinyapps.io/VIASVA/).
 
 Please note that the app has a built in interactive tutorial (click the *Click here for a guided tutorial of the app* button near the top left corner), and also a word document you can download
 (click the *Download Tutorial Document* button near the top left corner) containing instructions for how to use the app as shown below:
@@ -34,4 +34,4 @@ Please note that the app has a built in interactive tutorial (click the *Click h
 * Identify hidden sources of heterogeneity in single cell RNA-seq data
 * Discover marker genes associated with a variable of interest
 * Determine molecular pathways associated with the identified marker genes
-* Clustering and visualization of data
+* Interactive visualization of data
