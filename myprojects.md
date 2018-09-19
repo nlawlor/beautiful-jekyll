@@ -23,7 +23,7 @@ bigimg:
 
 ***
 
-[*bioRxiv, 2017* (in review). Chromatin accessibility profiling uncovers genetic- and T2D disease state-associated changes in cis-regulatory element use in human islets](https://www.biorxiv.org/content/early/2017/09/22/192922)
+[*Diabetes, 2018*. Type 2 Diabetes Associated Genetic Variants Regulate Chromatin Accessibility in Human Islets](http://diabetes.diabetesjournals.org/content/early/2018/08/27/db18-0393)
 
 **Authors**:  S. Khetan, R. Kursawe, A. Jillette, A. Youn, **N. Lawlor**, E. J. Marquez, D. Ucar, and M. L. Stitzel
 
