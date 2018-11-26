@@ -11,15 +11,15 @@ bigimg:
 
 ***
 
-[*bioRxiv, 2018* (in review). BiFET: A Bias-free Transcription Factor Footprint Enrichment Test](https://www.biorxiv.org/content/early/2018/05/16/324277) 
+[*Scientific Reports, 2018*. Detection of correlated hidden factors from single cell transcriptomes using Iteratively Adjusted-SVA (IA-SVA)](https://www.nature.com/articles/s41598-018-35365-9) 
 
-**Authors**:  A. Youn, E. J. Marquez, **N. Lawlor**, M. L. Stitzel, and D. Ucar
+**Authors**: D. Lee, A. Cheng, **N. Lawlor**, M. Bolisetty, and D. Ucar
 
 ***
 
-[*bioRxiv, 2018* (in review). Robust detection of hidden variation in single cell transcriptomes using Iteratively Adjusted-SVA (IA-SVA)](https://www.biorxiv.org/content/early/2018/04/24/151217) 
+[*Nucleic Acids Research, 2018*. BiFET: A Bias-free Transcription Factor Footprint Enrichment Test](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1117/5181443)
 
-**Authors**:  D. Lee, A. Cheng, **N. Lawlor**, M. Bolisetty, and D. Ucar
+**Authors**:  A. Youn, E. J. Marquez, **N. Lawlor**, M. L. Stitzel, and D. Ucar
 
 ***
 
