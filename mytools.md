@@ -14,7 +14,7 @@ bigimg:
 
 An in-depth guide of how to use **BiFET** can be found [**HERE**](https://bioconductor.org/packages/release/bioc/vignettes/BiFET/inst/doc/BiFET.html)
 
-To read more about **BiFET** check out the manuscript [**HERE**](https://www.biorxiv.org/content/early/2018/05/16/324277)
+To read more about **BiFET** check out the publication [**HERE**](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1117/5181443)
 
 ***
 
@@ -26,7 +26,7 @@ Single cell RNA-sequencing (scRNA-seq) precisely characterizes gene expression l
 
 An in-depth guide of how to use **IA-SVA** can be found [**HERE**](https://www.bioconductor.org/packages/devel/bioc/vignettes/iasva/inst/doc/detecting_hidden_heterogeneity_iasvaV0.95.html)
 
-To read more about **IA-SVA** check out the manuscript [**HERE**](https://www.biorxiv.org/content/early/2018/04/24/151217)
+To read more about **IA-SVA** check out the publication [**HERE**](https://www.nature.com/articles/s41598-018-35365-9)
 
 ***
 
