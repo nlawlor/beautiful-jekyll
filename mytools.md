@@ -6,6 +6,18 @@ bigimg:
  - "/img/software_development.jpg" : "Image from https://edemkumodzi.com/"
 ---
 
+### An R shiny application for visualization of EndoC-bH1 and human islet genomic data
+
+EndoC-βH1 is emerging as a critical human beta cell model to study the genetic and environmental etiologies of beta cell (dys)function and diabetes. Comprehensive knowledge of its molecular landscape is lacking, yet required, for effective use of this model. Here, we report chromosomal (spectral karyotyping), genetic (genotyping), epigenomic (ChIP-seq, ATAC-seq), chromatin interaction (Hi-C, Pol2 ChIA-PET), and transcriptomic (RNA-seq, miRNA-seq) maps of EndoC-βH1. Analyses of these maps define known (e.g., PDX1, ISL1) and putative (e.g., PCSK1, mir-375) beta cell-specific transcriptional cis-regulatory networks and identify allelic effects on cis-regulatory element use. Importantly, comparison with maps generated in primary human islets/beta cells indicate preservation of chromatin looping, but also highlight chromosomal aberrations and fetal genomic signatures in EndoC-βH1. Together, these maps, and a web application we created for their exploration, provide important tools for the design of experiments to probe and manipulate the genetic programs governing beta cell identity and (dys)function in diabetes.
+
+**Availability**: The R shiny app is free to use and is hosted [**HERE**](https://shinyapps.jax.org/endoc-islet-multi-omics/)
+
+For a detailed walk-through of how to use this application please see this document [**HERE**](https://github.com/nlawlor/Multiomic_Browser/blob/master/Data/EndoC_Islet_Omics_Shiny_App_Manual.docx)
+
+To learn more about this study and app please read our publication [**HERE**](https://www.cell.com/cell-reports/fulltext/S2211-1247(18)32043-6)
+
+***
+
 ### _BiFET_: Sequencing Bias-free Transcription Factor Footprint Enrichment Test
 
 **BiFET** identifies transcription factors (TFs) whose footprints are over-represented in target regions compared to background regions after correcting for the bias arising from the imbalance in read counts and GC contents between the target and background regions. For a given TF k, **BiFET** tests the null hypothesis that the target regions have the same probability of having footprints for the TF k as the background regions while correcting for the read count and GC content bias. For this, we use the number of target regions with footprints for TF k, t_k as a test statistic and calculate the p-value as the probability of observing t_k or more target regions with footprints under the null hypothesis.
@@ -30,13 +42,13 @@ To read more about **IA-SVA** check out the publication [**HERE**](https://www.n
 
 ***
 
-### Detecting and annotating sources of variation in single cell RNA-seq data using Visual Iteratively Adjusted Surrogate Variable Analysis (_VIA-SVA_)
+### Detecting and annotating sources of variation in single cell RNA-seq data using Visual Surrogate Variable Analysis (_V-SVA_)
 
 Single cell RNA-sequencing (scRNA-seq) is commonly used to define gene expression programs from individual cells. scRNA-seq expression data is highly spare and subject to substantial sources of experimental noise (“unwanted variation”) which can inhibit identification and analysis of unknown biological factors (“wanted variation”). Surrogate variable analysis (SVA) algorithms, such as _Iteratively Adjusted-Surrogate Variable Analysis (IA-SVA)_, have been developed to effectively estimate sources of hidden variation in expression data, however, annotating each factor and interpreting their underlying biology remains challenging.
 
-To facilitate the interpretation of detected hidden factors, we developed **Visual Iteratively Adjusted Surrogate Variable Analysis (VIA-SVA)**, an R Shiny application that provides a web-browser interface to IA-SVA for identification and annotation of hidden sources of variation in scRNA-seq data. This interactive framework includes tools for discovery of genes associated with detected sources of variation, gene annotation using publicly available databases and modules, and data visualization.
+To facilitate the interpretation of detected hidden factors, we developed **Visual Surrogate Variable Analysis (V-SVA)**, an R Shiny application that provides a web-browser interface to IA-SVA and other surrogate variable based algorithms for identification and annotation of hidden sources of variation in scRNA-seq data. This interactive framework includes tools for discovery of genes associated with detected sources of variation, gene annotation using publicly available databases and modules, and data visualization.
 
-**Availability**: **VIA-SVA** is available as an interactive web application (Shiny) [**HERE**](https://nlawlor.shinyapps.io/VIASVA/) and the source code for the app is available [**HERE**](https://github.com/nlawlor/iasva_shiny)
+**Availability**: **V-SVA** is available as an interactive web application (Shiny) [**HERE**](https://nlawlor.shinyapps.io/VSVA/) and the source code for the app is available [**HERE**](https://github.com/nlawlor/V-SVA)
 
 ***
 
