@@ -5,6 +5,12 @@ bigimg:
  - "/img/science_publications.jpg" : "Image from www.sciencepromotiongroup.com/"
 ---
 
+[*Molecular Metabolism, 2019*. (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes](https://www.sciencedirect.com/science/article/pii/S2212877819305629?via%3Dihub)
+
+**Authors**: **N. Lawlor**, M. L. Stitzel
+
+***
+
 [*Cell Reports, 2019*. Multiomic Profiling Identifies cis-Regulatory Networks Underlying Human Pancreatic β Cell Identity and Function](https://www.cell.com/cell-reports/fulltext/S2211-1247(18)32043-6)
 
 **Authors**: **N. Lawlor**, E. J. Marquez, P. Orchard, N. Narisu, M. S. Shamim, A. Thibodeau, A. Varshney, R. Kursawe, M. R. Erdos, M. Kanke, H. Gu, E. Pak, A. Dutra, S. Russell, X. Li, E. Piecuch, O. Luo, P. S. Chines, C. Fuchbserger, P. Sethupathy, A. P. Aiden, Y. Ruan, E. L. Aiden, F. S. Collins, D. Ucar, S. C.J. Parker, and M. L. Stitzel
