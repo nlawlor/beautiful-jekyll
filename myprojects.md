@@ -5,6 +5,12 @@ bigimg:
  - "/img/science_publications.jpg" : "Image from www.sciencepromotiongroup.com/"
 ---
 
+[*Bioinformatics, 2020*. V-SVA: an R Shiny application for detecting and annotating hidden sources of variation in single cell RNA-seq data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa128/5771333)
+
+**Authors**: **N. Lawlor**, E. J. Marquez, D. Lee, and D. Ucar
+
+***
+
 [*Molecular Metabolism, 2019*. (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes](https://www.sciencedirect.com/science/article/pii/S2212877819305629?via%3Dihub)
 
 **Authors**: **N. Lawlor**, M. L. Stitzel
