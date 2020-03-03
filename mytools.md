@@ -48,7 +48,9 @@ Single cell RNA-sequencing (scRNA-seq) is commonly used to define gene expressio
 
 To facilitate the interpretation of detected hidden factors, we developed **Visual Surrogate Variable Analysis (V-SVA)**, an R Shiny application that provides a web-browser interface to IA-SVA and other surrogate variable based algorithms for identification and annotation of hidden sources of variation in scRNA-seq data. This interactive framework includes tools for discovery of genes associated with detected sources of variation, gene annotation using publicly available databases and modules, and data visualization.
 
-**Availability**: **V-SVA** is available as an interactive web application (Shiny) [**HERE**](https://nlawlor.shinyapps.io/VSVA/) and the source code for the app is available [**HERE**](https://github.com/nlawlor/V-SVA)
+**Availability**: **V-SVA** is freely available as an interactive web application (Shiny) [**HERE**](https://vsva.jax.org/) and the source code for the app is available [**HERE**](https://github.com/nlawlor/V-SVA)
+
+To read more about **V-SVA** please see the publication in Bioinformatics [**HERE**](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa128/5771333)
 
 ***
 
