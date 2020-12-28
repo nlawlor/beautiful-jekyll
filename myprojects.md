@@ -5,6 +5,18 @@ bigimg:
  - "/img/science_publications.jpg" : "Image from www.sciencepromotiongroup.com/"
 ---
 
+[*bioRxiv (in press), 2020*. Single cell analysis of blood mononuclear cells stimulated through CD3 and CD28 shows collateral activation of B and NK cells and demise of monocytes](https://www.biorxiv.org/content/10.1101/2020.12.23.424147v1)
+
+**Authors**: **N. Lawlor**, D. Nehar-Belaid, J. D.S. Grassmann, M. Stoeckius, P. Smibert, M. L. Stitzel, V. Pascual, J. Banchereau, A. Williams, D. Ucar
+
+***
+
+[*bioRxiv (in press), 2020*. Tet2 Controls β cells Responses to Inflammation in Type 1 Diabetes](https://www.biorxiv.org/content/10.1101/2020.09.01.278028v1.abstract)
+
+**Authors**: J. Rui, S. Deng, G. Ponath, R. Kursawe, **N. Lawlor**, T. Sumida, M. Levine-Ritterman, A. L. Perdigoto, M. L. Stitzel, D. Pitt, J. Lu, K. C. Herold
+
+***
+
 [*Bioinformatics, 2020*. V-SVA: an R Shiny application for detecting and annotating hidden sources of variation in single cell RNA-seq data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa128/5771333)
 
 **Authors**: **N. Lawlor**, E. J. Marquez, D. Lee, and D. Ucar
