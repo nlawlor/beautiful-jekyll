@@ -5,7 +5,7 @@ bigimg:
  - "/img/science_publications.jpg" : "Image from www.sciencepromotiongroup.com/"
 ---
 
-[*bioRxiv (in press), 2020*. Single cell analysis of blood mononuclear cells stimulated through CD3 and CD28 shows collateral activation of B and NK cells and demise of monocytes](https://www.biorxiv.org/content/10.1101/2020.12.23.424147v1)
+[*Frontiers in Immunology, 2021*. Single Cell Analysis of Blood Mononuclear Cells Stimulated Through Either LPS or Anti-CD3 and Anti-CD28](https://www.frontiersin.org/articles/10.3389/fimmu.2021.636720/full)
 
 **Authors**: **N. Lawlor**, D. Nehar-Belaid, J. D.S. Grassmann, M. Stoeckius, P. Smibert, M. L. Stitzel, V. Pascual, J. Banchereau, A. Williams, D. Ucar
 
